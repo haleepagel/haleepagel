@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Heyo! I'm Halee from Cali (it rhymes).✨
 
 <!--
 **haleepagel/haleepagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm a software dev in tokyo.
+
+#### I like 
+- ⚾️ angels baseball⚾️ 
+- 🎲 d&d🎲
+- 🍪 chocoloate chip cookies🍪
+
+##### tweet me @haleepagel
