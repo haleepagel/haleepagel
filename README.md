@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 #### things i like
 
+- 👍 accessible ui/ux
+- ⚛️ react.js
+- 🖥 front end development
+
+---
+
+#### fun stuff
+
 - ⚾️ angels baseball
 - 🎲 d&d
 - 🍪 chocoloate chip cookies
