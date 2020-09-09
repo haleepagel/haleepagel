@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## ✨ heyo! ✨
 
-### i'm halee from cali and a software dev in tokyo.
+### i'm halee from cali and i'm a software dev in tokyo.
 
 ---
 
